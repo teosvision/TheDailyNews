@@ -16,10 +16,11 @@ You may also see any lint errors in the console.
 
 ### `npm i -g json-server'
 
-For installing json-server
+ Install json-server.
+ 
 ### `npm run jserv'
 
-For runing this server localy
+Run this server locally.
 
 ### `npm test`
 
